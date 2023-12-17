@@ -2,4 +2,4 @@ domains:
   # Primary domain
   - www.xts.dk
   # Domains that redirect to the primary
-  - xts.dk
+  # - xts.dk
